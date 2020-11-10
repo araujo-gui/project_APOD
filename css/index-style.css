@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://image.freepik.com/vetores-gratis/fundo-astral-galactico_125540-407.jpg") ;
+    width: 100px;
+    height: 100px;
+}
+
+#div {
+    direction: flex;
+}
+
+h1 {
+    align-items: center;
+}
